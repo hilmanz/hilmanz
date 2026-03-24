@@ -3,5 +3,4 @@
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,css,astro,bash,bootstrap,figma,jquery,linux,nextjs,react,nodejs,npm,sqlite,sublimetailwind,typescript,vite,vscode,)](https://skillicons.dev)
 
-# 📊 GitHub Stats:
-[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=hilmanz&theme=radical&title=Github+Stats&revert=false)](https://bit.ly/gh-readme-profile)
+[![GitHub Readme Profile](https://gh-readme-profile.vercel.app/api?username=hilmanz&theme=github_dark&title=hilmanz%27s+stats&revert=false&hide_border=true&hide_stroke=true)](https://bit.ly/gh-readme-profile)
